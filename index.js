@@ -17,4 +17,8 @@ var menuBtn = document.getElementById("menuBtn")
 var scroll = new SmoothScroll('a[href*="#"]', {
     speed: 500,
     speedAsDuration: true
-});        
+}); 
+  
+
+
+  
